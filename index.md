@@ -8,3 +8,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [ ] Learn how to create a GitHub List
+- [x] Press Enter and it automatically makes a second
+- [ ] Continue growing in understanding and use of GitHub
+
